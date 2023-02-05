@@ -12,7 +12,7 @@ export default defineConfig({
 
   lastUpdated: true,
   cleanUrls: true,
-
+  ignoreDeadLinks: true,
   head: [["meta", { name: "theme-color", content: "#3c8772" }]],
 
   markdown: {
