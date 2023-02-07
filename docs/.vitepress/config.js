@@ -82,57 +82,117 @@ function nav() {
 function sidebarMagazine() {
   return [
     {
-      text: "Introduction",
-      collapsed: false,
-      items: [
-        { text: "What is VitePress?", link: "/magazine/what-is-vitepress" },
-        { text: "Getting Started", link: "/magazine/getting-started" },
-        { text: "Configuration", link: "/magazine/configuration" },
-        { text: "Routing", link: "/magazine/routing" },
-        { text: "Deploying", link: "/magazine/deploying" },
-        { text: "Internationalization", link: "/magazine/i18n" },
-      ],
-    },
-    {
-      text: "Writing",
-      collapsed: false,
-      items: [
-        { text: "Markdown", link: "/magazine/markdown" },
-        { text: "Asset Handling", link: "/magazine/asset-handling" },
-        { text: "Frontmatter", link: "/magazine/frontmatter" },
-        { text: "Using Vue in Markdown", link: "/magazine/using-vue" },
-        { text: "API Reference", link: "/magazine/api" },
-      ],
-    },
-    {
-      text: "Theme",
-      collapsed: false,
-      items: [
-        { text: "Introduction", link: "/magazine/theme-introduction" },
-        { text: "Nav", link: "/magazine/theme-nav" },
-        { text: "Sidebar", link: "/magazine/theme-sidebar" },
-        { text: "Prev Next Link", link: "/magazine/theme-prev-next-link" },
-        { text: "Edit Link", link: "/magazine/theme-edit-link" },
-        { text: "Last Updated", link: "/magazine/theme-last-updated" },
-        { text: "Layout", link: "/magazine/theme-layout" },
-        { text: "Home Page", link: "/magazine/theme-home-page" },
-        { text: "Team Page", link: "/magazine/theme-team-page" },
-        { text: "Badge", link: "/magazine/theme-badge" },
-        { text: "Footer", link: "/magazine/theme-footer" },
-        { text: "Search", link: "/magazine/theme-search" },
-        { text: "Carbon Ads", link: "/magazine/theme-carbon-ads" },
-      ],
-    },
-    {
-      text: "Migrations",
+      text: "Interviews",
       collapsed: false,
       items: [
         {
-          text: "Migration from VuePress",
+          text: "Main",
+          collapsed: true,
+          items: [
+            { text: "Peter D' Almeida", link: "/magazine/what-is-vitepress" },
+            { text: "Dhanushka Fernando", link: "/magazine/getting-started" },
+            { text: "Daddy", link: "/magazine/configuration" },
+            { text: "Yasas Hewage", link: "/magazine/routing" },
+          ],
+        },
+        {
+          text: "365*4",
+          collapsed: true,
+          items: [
+            { text: "365*4 - (1)", link: "/magazine/deploying" },
+            { text: "365*4 - (2)", link: "/magazine/i18n" },
+            { text: "365*4 - (3)", link: "/magazine/i18n" },
+            { text: "365*4 - (4)", link: "/magazine/i18n" },
+          ],
+        },
+        {
+          text: "Past Mitians",
+          collapsed: true,
+          items: [
+            { text: "Past Mitians (1) ", link: "/magazine/getting-started" },
+            { text: "Past Mitians (2) ", link: "/magazine/configuration" },
+          ],
+        },
+        {
+          text: "Appraisals",
+          collapsed: true,
+          items: [
+            { text: "Appraisals (1) Unilever", link: "/magazine/routing" },
+            {
+              text: "Appraisals (2) ShoutOUT Labs",
+              link: "/magazine/deploying",
+            },
+          ],
+        },
+        {
+          text: "Spirits",
+          collapsed: true,
+          items: [
+            { text: "Spirits (1)", link: "/magazine/i18n" },
+            { text: "Spirits (2)", link: "/magazine/i18n" },
+            { text: "Spirits (3)", link: "/magazine/i18n" },
+          ],
+        },
+      ],
+    },
+    {
+      text: "Student Corner",
+      collapsed: false,
+      items: [
+        { text: "AI and Unemployment", link: "/magazine/markdown" },
+        { text: "Emo", link: "/magazine/asset-handling" },
+        { text: "Chatbot", link: "/magazine/frontmatter" },
+        { text: "Industry 5.0", link: "/magazine/using-vue" },
+        { text: "Power skills as DA", link: "/magazine/api" },
+        { text: "Age of Superheros", link: "/magazine/api" },
+      ],
+    },
+    {
+      text: "Expert Insights",
+      collapsed: false,
+      items: [
+        { text: "Expert Insights (1)", link: "/magazine/theme-introduction" },
+        { text: "Expert Insights (2)", link: "/magazine/theme-nav" },
+      ],
+    },
+    {
+      text: "R&D",
+      collapsed: false,
+      items: [{ text: "SCSE", link: "/magazine/theme-introduction" }],
+    },
+    {
+      text: "IMSSA Events",
+      collapsed: false,
+      items: [
+        { text: "HackX", link: "/magazine/theme-introduction" },
+        { text: "Hack Jr", link: "/magazine/theme-nav" },
+        { text: "Edify", link: "/magazine/theme-sidebar" },
+        { text: "Info Studio", link: "/magazine/theme-prev-next-link" },
+        { text: "Other", link: "/magazine/theme-edit-link" },
+      ],
+    },
+    {
+      text: "Miscellaneous",
+      collapsed: false,
+      items: [
+        {
+          text: "UOK",
           link: "/magazine/migration-from-vuepress",
         },
         {
-          text: "Migration from VitePress 0.x",
+          text: "MIT",
+          link: "/magazine/migration-from-vitepress-0",
+        },
+        {
+          text: "DIM",
+          link: "/magazine/migration-from-vitepress-0",
+        },
+        {
+          text: "EEC",
+          link: "/magazine/migration-from-vitepress-0",
+        },
+        {
+          text: "HYD",
           link: "/magazine/migration-from-vitepress-0",
         },
       ],
