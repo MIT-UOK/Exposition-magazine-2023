@@ -67,14 +67,9 @@ function nav() {
       activeMatch: "/magazine/",
     },
     {
-      text: "Team",
-      link: "/team",
-      activeMatch: "/team",
-    },
-    {
-      text: "Sponsors",
-      link: "/sponsors",
-      activeMatch: "/sponsors",
+      text: "Partners",
+      link: "/partners",
+      activeMatch: "/partners",
     },
   ];
 }
