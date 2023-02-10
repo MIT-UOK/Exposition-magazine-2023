@@ -18,9 +18,9 @@
   </div>
   <!-- background animation end -->
   <div class="context">
-    <div class="container">
+    <div class="home-container">
       <img src="../public/images/logo/logo.png" />
-      <a href="/magazine/what-is-vitepress">
+      <a href="/magazine/what-is-vitepress.html">
         <button class="btn-save">
           <strong>Read Magazine</strong>
         </button>
@@ -66,11 +66,11 @@
 
 .context {
   position: absolute;
-  top: 45%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.container {
+.home-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -79,7 +79,7 @@
 
 .area {
   width: 100%;
-  height: 80vh;
+  height: 75vh;
 }
 
 .circles {
