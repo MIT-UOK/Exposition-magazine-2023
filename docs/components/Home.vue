@@ -1,10 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="context">
-    <h1>Exposition Issue 18</h1>
-  </div>
-
+  <!-- background animation start -->
   <div class="area">
     <ul class="circles">
       <li></li>
@@ -19,24 +16,70 @@
       <li></li>
     </ul>
   </div>
+  <!-- background animation end -->
+  <div class="context">
+    <div class="container">
+      <img src="../public/images/logo/logo.png" />
+      <a href="/magazine/what-is-vitepress">
+        <button class="btn-save">
+          <strong>Read Magazine</strong>
+        </button>
+      </a>
+    </div>
+  </div>
 </template>
 
 <style scoped>
-.context {
-  width: 100%;
-  position: absolute;
-  top: 35vh;
+.btn-save {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  padding: 0.8rem;
+  background: #b8905a;
+  font-size: 1rem;
+  line-height: 1.5;
+  cursor: pointer;
+  animation: pulse 1.5s infinite;
+  margin-top: 80px;
+  transition: margin-top 2s;
+  border-radius: 10px;
+}
+.btn-save:hover {
+  animation: none;
 }
 
-.context h1 {
-  text-align: center;
-  color: #fff;
-  font-size: 50px;
+@keyframes pulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
+    box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
+  }
+  70% {
+    -moz-box-shadow: 0 0 0 10px var(--vp-c-brand);
+    box-shadow: 0 0 0px 20px rgba(204, 169, 44, 0);
+  }
+  100% {
+    -moz-box-shadow: 0 0 0 0 var(--vp-c-brand);
+    box-shadow: 0 0 0 0 rgba(204, 169, 44, 0);
+  }
+}
+
+.context {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .area {
   width: 100%;
-  height: 100vh;
+  height: 80vh;
 }
 
 .circles {
@@ -147,5 +190,4 @@
     border-radius: 50%;
   }
 }
-/* button  */
 </style>
