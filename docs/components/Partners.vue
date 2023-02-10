@@ -53,7 +53,7 @@ import { VPTeamPageTitle } from "vitepress/theme";
         <img
           width="100px"
           height="100px"
-          src="/images/sponsors/Logo_Creative Software.png"
+          src="/images/sponsors/CreativeSoftware.png"
           alt=""
         />
       </div>
