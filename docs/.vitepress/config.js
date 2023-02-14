@@ -63,8 +63,8 @@ function nav() {
     },
     {
       text: "Magazine",
-      link: "/magazine/what-is-vitepress",
-      activeMatch: "/magazine/",
+      link: "/magazine/interviews/dhanushka-fernando",
+      activeMatch: "/magazine/interviews",
     },
     {
       text: "Partners",
@@ -81,114 +81,159 @@ function sidebarMagazine() {
       collapsed: false,
       items: [
         {
-          text: "Main",
+          text: "Mr. Dhanushka Fernando",
+          link: "/magazine/interviews/dhanushka-fernando",
+        },
+        {
+          text: "Mr. Peter D’Almeida",
+          link: "/magazine/interviews/peter-d-almeida",
+        },
+        {
+          text: "Ms. Gayani Gamage",
+          link: "/magazine/interviews/gayani-gamage",
+        },
+        {
+          text: "Mr. Viresh Cooray",
+          link: "/magazine/interviews/viresh-cooray",
+        },
+      ],
+    },
+    {
+      text: "Exposition Segments",
+      collapsed: true,
+      items: [
+        {
+          text: "Exposition Entrepreneurial Community",
+          link: "/magazine/exposition-segments/exposition-entrepreneurial-community",
+        },
+        {
+          text: "How You Did It?",
+          link: "/magazine/exposition-segments/how-you-did-it",
+        },
+        { text: "Edify", link: "/magazine/exposition-segments/edify" },
+      ],
+    },
+    {
+      text: "MITians",
+      collapsed: true,
+      items: [
+        {
+          text: "Department of Industrial Management",
+          link: "/magazine/mitians/department-of-industrial-management",
+        },
+        {
+          text: "Management and Information Technology",
+          link: "/magazine/mitians/management-and-information-technology",
+        },
+        {
+          text: "IM Spirits",
           collapsed: true,
           items: [
-            { text: "Peter D' Almeida", link: "/magazine/what-is-vitepress" },
-            { text: "Dhanushka Fernando", link: "/magazine/getting-started" },
-            { text: "Daddy", link: "/magazine/configuration" },
-            { text: "Yasas Hewage", link: "/magazine/routing" },
+            {
+              text: "Chiran Hewawitharana",
+              link: "/magazine/mitians/im-spirits/chiran-hewawitharana",
+            },
+            {
+              text: "Anuradha Jayatilaka",
+              link: "/magazine/mitians/im-spirits/anuradha-jayatilaka",
+            },
+            {
+              text: "Lahiru Senarath Adikari",
+              link: "/magazine/mitians/im-spirits/lahiru-senarath-adikari",
+            },
           ],
         },
         {
           text: "365*4",
           collapsed: true,
           items: [
-            { text: "365*4 - (1)", link: "/magazine/deploying" },
-            { text: "365*4 - (2)", link: "/magazine/i18n" },
-            { text: "365*4 - (3)", link: "/magazine/i18n" },
-            { text: "365*4 - (4)", link: "/magazine/i18n" },
-          ],
-        },
-        {
-          text: "Past Mitians",
-          collapsed: true,
-          items: [
-            { text: "Past Mitians (1) ", link: "/magazine/getting-started" },
-            { text: "Past Mitians (2) ", link: "/magazine/configuration" },
+            { text: "365*1", link: "/magazine/mitians/365x4/365x1" },
+            { text: "365*2", link: "/magazine/mitians/365x4/365x2" },
+            { text: "365*3", link: "/magazine/mitians/365x4/365x3" },
+            { text: "365*4", link: "/magazine/mitians/365x4/365x4" },
           ],
         },
         {
           text: "Appraisals",
           collapsed: true,
           items: [
-            { text: "Appraisals (1) Unilever", link: "/magazine/routing" },
+            { text: "Unilever", link: "/magazine/mitians/appraisals/unilever" },
             {
-              text: "Appraisals (2) ShoutOUT Labs",
-              link: "/magazine/deploying",
+              text: "ShoutOUT Labs",
+              link: "/magazine/mitians/appraisals/shout-out-labs",
             },
           ],
         },
-        {
-          text: "Spirits",
-          collapsed: true,
-          items: [
-            { text: "Spirits (1)", link: "/magazine/i18n" },
-            { text: "Spirits (2)", link: "/magazine/i18n" },
-            { text: "Spirits (3)", link: "/magazine/i18n" },
-          ],
-        },
-      ],
-    },
-    {
-      text: "Student Corner",
-      collapsed: false,
-      items: [
-        { text: "AI and Unemployment", link: "/magazine/markdown" },
-        { text: "Emo", link: "/magazine/asset-handling" },
-        { text: "Chatbot", link: "/magazine/frontmatter" },
-        { text: "Industry 5.0", link: "/magazine/using-vue" },
-        { text: "Power skills as DA", link: "/magazine/api" },
-        { text: "Age of Superheros", link: "/magazine/api" },
       ],
     },
     {
       text: "Expert Insights",
-      collapsed: false,
+      collapsed: true,
       items: [
-        { text: "Expert Insights (1)", link: "/magazine/theme-introduction" },
-        { text: "Expert Insights (2)", link: "/magazine/theme-nav" },
+        {
+          text: "Is Data Scientist a Dragon?",
+          link: "/magazine/expert-insights/is-data-scientist-a-dragon",
+        },
+        {
+          text: "Establishing an Electronic Industry in Sri Lanka",
+          link: "/magazine/expert-insights/establishing-an-electronic-industry-in-sri-lanka",
+        },
       ],
     },
     {
-      text: "R&D",
-      collapsed: false,
-      items: [{ text: "SCSE", link: "/magazine/theme-introduction" }],
+      text: "Students’ Corner",
+      collapsed: true,
+      items: [
+        {
+          text: "Artificial Intelligence and Unemployment",
+          link: "/magazine/students-corner/artificial-intelligence-and-unemployment",
+        },
+        {
+          text: "Power Skills to Stand Out as a Data Scientist",
+          link: "/magazine/students-corner/power-skills-to-stand-out-as-a-data-scientist",
+        },
+        {
+          text: "Age of Superheroes is Here",
+          link: "/magazine/students-corner/age-of-superheroes-is-here",
+        },
+        {
+          text: "Meet EMO: New Friendly AI",
+          link: "/magazine/students-corner/meet-emo_new-friendly-ai",
+        },
+        {
+          text: "Chatbots: For Improved Customer Engagement",
+          link: "/magazine/students-corner/chat-bots_for-improved-customer-engagement",
+        },
+        {
+          text: "Industry 5.0: The future of Industrial Manufacturing",
+          link: "/magazine/students-corner/industry-5_the-future-of-industrial-manufacturing",
+        },
+      ],
+    },
+
+    {
+      text: "Research & Development",
+      collapsed: true,
+      items: [
+        { text: "SCSE", link: "/magazine/research-and-development/scse" },
+      ],
     },
     {
       text: "IMSSA Events",
-      collapsed: false,
+      collapsed: true,
       items: [
-        { text: "HackX", link: "/magazine/theme-introduction" },
-        { text: "Hack Jr", link: "/magazine/theme-nav" },
-        { text: "Edify", link: "/magazine/theme-sidebar" },
-        { text: "Info Studio", link: "/magazine/theme-prev-next-link" },
-        { text: "Other", link: "/magazine/theme-edit-link" },
+        { text: "HackX", link: "/magazine/imssa-events/hackx" },
+        { text: "InfoStudio", link: "/magazine/imssa-events/info-studio" },
+        { text: "HackXJr", link: "/magazine/imssa-events/hackx-jr" },
       ],
     },
     {
-      text: "Miscellaneous",
-      collapsed: false,
+      text: "Alma Mater",
+      collapsed: true,
       items: [
         {
-          text: "UOK",
-          link: "/magazine/migration-from-vuepress",
-        },
-        {
-          text: "MIT",
-          link: "/magazine/migration-from-vitepress-0",
-        },
-        {
-          text: "DIM",
-          link: "/magazine/migration-from-vitepress-0",
-        },
-        {
-          text: "EEC",
-          link: "/magazine/migration-from-vitepress-0",
-        },
-        {
-          text: "HYD",
-          link: "/magazine/migration-from-vitepress-0",
+          text: "University of Kelaniya",
+          link: "/magazine/alma-mater/university-of-kelaniya",
         },
       ],
     },
