@@ -115,13 +115,12 @@ I learned how to lead them by helping them lead themselves.
 I think those two qualities of looking for opportunities and
 pulling together a team are what I brought to N*able. Because
 this is not about you, it’s about your team. You are only as good as
-your team. To put together a team and let them grow, not spoonfeed them or micromanage them, but give them a chance to look
+your team. To put together a team and let them grow, not spoon feed them or micromanage them, but give them a chance to look
 at the opportunities and then support them. I think those are the
 essential things I picked up as I started and grew N*able into a
 successful company
 
-Q: What challenges did you encounter on your path to an
-executive role? How did you overcome those challenges?
+## What challenges did you encounter on your path to an executive role? How did you overcome those challenges?
 
 I never set out to become an executive; I did not have that in
 my head. But I think of all my roles as forms of leadership, even
@@ -135,9 +134,7 @@ in any role I was in. And when I say leadership, it is about leading
 myself and then being able to step up and lead others. I did not
 wait for someone to tell me or offer me a hierarchical position.
 
-Q: You are renowned for your roles in the Sri Lankan
-media and entertainment industry. In which ways has that
-industry molded who you are as a person?
+## You are renowned for your roles in the Sri Lankan media and entertainment industry. In which ways has that industry molded who you are as a person?
 
 I am not sure whether the industry has molded me as such.
 But what I draw from being in that world is storytelling.
