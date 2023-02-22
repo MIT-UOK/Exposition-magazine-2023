@@ -20,10 +20,8 @@
   <div class="context">
     <div class="home-container">
       <img src="../public/images/logo/logo.png" />
-      <a href="/magazine/what-is-vitepress.html">
-        <button class="btn-save">
-          <strong>Read Magazine</strong>
-        </button>
+      <a class="btn-save" href="/magazine/interviews/dhanushka-fernando">
+        <strong>Read Magazine</strong>
       </a>
     </div>
   </div>
@@ -36,7 +34,7 @@
   vertical-align: middle;
   border: 1px solid transparent;
   padding: 0.8rem;
-  background: #b8905a;
+  background: var(--vp-c-green);
   font-size: 1rem;
   line-height: 1.5;
   cursor: pointer;

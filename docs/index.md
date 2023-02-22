@@ -4,8 +4,8 @@ layout: page
 
 <script setup>
 import 
-  Team
+  Home
  from './components/Home.vue'
 </script>
 
-<Team/>
+<Home/>
