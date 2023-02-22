@@ -6,14 +6,18 @@ const pkg = require("vitepress/package.json");
 
 export default defineConfig({
   lang: "en-US",
-  title: "Exposition",
+  title: " ",
+  titleTemplate: "Exposition",
   description:
     "Exposition Magazine, most outstanding magazine of the year to bridge the gap between Management and IT platforms which is one of the leading university business magazines to mark the footprints of undergraduates to the Cooperate World.",
-
+  appearance: "dark",
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
-  head: [["meta", { name: "theme-color", content: "#3c8772" }]],
+  head: [
+    ["meta", { name: "theme-color", content: "#3c8772" }],
+    ["link", { rel: "icon", href: "/images/logo/logo.png" }],
+  ],
 
   markdown: {
     headers: {
@@ -23,7 +27,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: nav(),
-
+    logo: "/images/logo/logo.png",
     sidebar: {
       "/magazine/": sidebarMagazine(),
     },
@@ -64,7 +68,7 @@ function nav() {
     {
       text: "Magazine",
       link: "/magazine/interviews/dhanushka-fernando",
-      activeMatch: "/magazine/interviews",
+      activeMatch: "/magazine/*",
     },
     {
       text: "Partners",

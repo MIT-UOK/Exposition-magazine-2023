@@ -19,7 +19,7 @@
   <!-- background animation end -->
   <div class="context">
     <div class="home-container">
-      <img src="../public/images/logo/logo.png" />
+      <img src="/images/logo/logo.png" />
       <a class="btn-save" href="/magazine/interviews/dhanushka-fernando">
         <strong>Read Magazine</strong>
       </a>
