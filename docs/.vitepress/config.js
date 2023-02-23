@@ -75,6 +75,23 @@ function nav() {
       link: "/partners",
       activeMatch: "/partners",
     },
+    {
+      text: "E-Magazine",
+      link: "https://emagazine.exposition.lk/",
+    },
+    // {
+    //   text: "Exposition",
+    //   items: [
+    //     {
+    //       text: "E-Magazine",
+    //       link: "https://emagazine.exposition.lk/",
+    //     },
+    //     {
+    //       text: "Contributing",
+    //       link: "https://github.com/vuejs/vitepress/blob/main/.github/contributing.md",
+    //     },
+    //   ],
+    // },
   ];
 }
 
