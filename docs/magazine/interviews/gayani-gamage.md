@@ -1,5 +1,7 @@
 # Ms. Gayani Gamage
 
+![My image](/images/article/Interviews/gg.png)
+
 ## You hold bachelor’s and master’s degrees in two different disciplines (BSc. MIT & MBA). How has this helped you climb up the career ladder?
 
 When I signed up for the MBA, it

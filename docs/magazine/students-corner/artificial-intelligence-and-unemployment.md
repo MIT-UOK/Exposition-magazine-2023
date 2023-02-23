@@ -1,4 +1,8 @@
-# Artificial Intelligence and Unemployment
+---
+title: "Artificial Intelligence and Unemployment"
+---
+
+![My image](/images/article/Students-Corner/artificial-intelligence-and-unemployment.png)
 
 The
 idea of technological

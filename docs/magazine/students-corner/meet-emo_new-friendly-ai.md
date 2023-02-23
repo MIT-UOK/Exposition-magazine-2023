@@ -1,4 +1,8 @@
-# Meet EMO - New Friendly AI
+---
+title: "Meet EMO - New Friendly AI"
+---
+
+![My image](/images/article/Students-Corner/meet-emo_new-friendly-ai.png)
 
 If you’re a frequent social media
 user, you’ve probably seen this

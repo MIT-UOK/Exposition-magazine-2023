@@ -1,4 +1,8 @@
-# Is Data Scientist A Dragon
+---
+title: "Is Data Scientist A Dragon"
+---
+
+![My image](/images/article/Expert-Insights/is-data-scientist-a-dragon.png)
 
 Data Scientist is a trending job in today’s world. Most
 organizations are looking for data scientists to improve
@@ -16,9 +20,13 @@ complexities and differences. Therefore, let us look at
 the salaries of data scientists in India for large-scale
 companies.
 
+![My image](/images/article/Expert-Insights/t1.png)
+
 As you can see from the above table, data scientists
 earn a good salary across all companies. Now, let us
 compare the salary of a data scientist with other jobs.
+
+![My image](/images/article/Expert-Insights/t2.png)
 
 As you can see from the above two tables, data
 scientists earn good salaries compared to other software-related jobs.
@@ -83,6 +91,8 @@ performance
 and
 scalability aspects.
 
+![My image](/images/article/Expert-Insights/f1.png)
+
 Typically, the matching technique is not limited to
 a simple lookup. In most cases, the simple lookup will
 not work, as these systems are developed to satisfy
@@ -127,6 +137,8 @@ to become a data scientist. You might sense that by
 looking at the data scientist’s task, you need various
 skills to become a data scientist. The following figure
 shows what technologies are needed to learn.
+
+![My image](/images/article/Expert-Insights/f2.png)
 
 As you can see in figure 2, you need to know
 various technologies and skills. Database technologies,

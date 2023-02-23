@@ -1,4 +1,8 @@
-# Power Skills to Stand Out as a Data Scientist
+---
+title: "Power Skills to Stand Out as a Data Scientist"
+---
+
+![My image](/images/article/Students-Corner/power-skills-to-stand-out-as-a-data-scientist.png)
 
 `" Knowledge is power "`
 

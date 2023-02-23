@@ -1,5 +1,6 @@
 # Mr. Viresh Cooray
 
+![My image](/images/article/Interviews/vk.png)
 ::: info  
 People have their own passions. Music is such a passion because it
 creates life itself. The musical group DADDY is a popular band in Sri
