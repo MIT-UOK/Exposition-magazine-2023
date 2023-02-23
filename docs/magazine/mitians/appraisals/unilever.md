@@ -86,3 +86,9 @@ who have theoretical knowledge but
 struggle to convert it into a practical
 scenario, MIT undergraduates are
 well-balanced.
+
+---
+
+### Chathura Ganegoda
+
+#### Head of Customer Development Excellence - Unilever
