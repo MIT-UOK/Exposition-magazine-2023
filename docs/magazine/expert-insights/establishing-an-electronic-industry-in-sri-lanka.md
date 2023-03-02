@@ -1,4 +1,8 @@
-# Establishing an Electronic Industry in Sri Lanka
+---
+title: "Establishing an Electronic Industry in Sri Lanka"
+---
+
+![My image](/images/article/Expert-Insights/establishing-an-electronic-industry-in-sri-lanka.png)
 
 Integrated Circuit (IC) has
 become a hot topic in international
@@ -30,6 +34,8 @@ roughly 70 percent of etching gas
 and 90 percent of photoresists for
 the world market are produced by
 Japanese companies).
+
+![My image](/images/article/Expert-Insights/Made-in-china.png)
 
 In 2015, China started its Made
 in China 2025 (MIC2025) initiative

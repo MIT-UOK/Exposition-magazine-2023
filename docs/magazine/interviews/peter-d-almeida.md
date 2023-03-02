@@ -1,5 +1,7 @@
 # Mr. Peter D’Almeida
 
+![My image](/images/article/Interviews/pda.png)
+
 ::: info  
 Forging new paths of insight
 and creating spaces to foster

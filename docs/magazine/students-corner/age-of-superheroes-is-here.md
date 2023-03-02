@@ -1,4 +1,8 @@
-# The Age of Superheroes is Here
+---
+title: "The Age of Superheroes is Here"
+---
+
+![My image](/images/article/Students-Corner/age-of-superheroes-is-here.png)
 
 Mimicking the intricacies of the
 human brain has been one of the major

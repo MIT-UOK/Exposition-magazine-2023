@@ -1,5 +1,7 @@
 # Mr. Dhanushka Fernando
 
+![My image](/images/article/Interviews/df.png)
+
 ::: info “Life is a process, not a product.”
 Entrepreneurs constantly give power to this process by propelling
 it through their passions. With entrepreneurs like Mr. Dhanushka

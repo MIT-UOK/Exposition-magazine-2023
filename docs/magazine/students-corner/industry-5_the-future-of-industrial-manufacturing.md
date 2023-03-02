@@ -1,4 +1,8 @@
-# Industry 5.0: The future of Industrial Manufacturing
+---
+title: "Industry 5.0: The future of Industrial Manufacturing"
+---
+
+![My image](/images/article/Students-Corner/industry-5_the-future-of-industrial-manufacturing.png)
 
 The majority of companies are still
 attempting to integrate Industry 4.0

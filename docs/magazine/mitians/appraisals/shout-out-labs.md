@@ -62,3 +62,9 @@ in the future.
 We also wish the students all the
 best for their upcoming Exposition
 magazine launch.
+
+---
+
+### Tharindu Dassanayake
+
+#### Chief Executive Officer - ShoutOUT Labs
