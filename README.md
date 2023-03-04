@@ -1,49 +1,6 @@
-# VitePress
+![Home _ Exposition](https://user-images.githubusercontent.com/62632273/222874774-98550969-4b06-4faa-b7d6-5c0b97991b85.png)
 
-This directory is a brief example of a [VitePress](https://vitepress.vuejs.org/) site that can be deployed to Vercel with zero-configuration.
+![Mr  Dhanushka Fernando _ Exposition](https://user-images.githubusercontent.com/62632273/222874777-c4ba1cde-9032-49ad-b561-e70d340ba6e9.png)
 
-## Setup
 
-Install the dependencies
-
-```bash
-$ yarn install
-```
-
-## Deploy Your Own
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vitepress&template=vitepress)
-
-_Live Example: https://vitepress-starter-template.vercel.app_
-
-## Setup
-
-Install the dependencies:
-
-```bash
-$ yarn install
-```
-
-### Development
-
-Start the development server
-
-```bash
-$ yarn dev
-```
-
-### Build the project
-
-Build for production
-
-```bash
-$ yarn build
-```
-
-### Deploy
-
-Deploy your VitePress application to Vercel
-
-```bash
-$ vercel
-```
+![Partners _ Exposition](https://user-images.githubusercontent.com/62632273/222874780-f2c294bd-752d-473d-a1e1-4bd3c98960a1.png)
