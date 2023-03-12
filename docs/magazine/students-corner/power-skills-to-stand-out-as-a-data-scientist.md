@@ -58,8 +58,6 @@ complicated?
 Maybe, but here is one major reason why you should aspire
 toward a career in the data science domain. As Glassdoor and
 Forbes suggest, the demand for data scientists will rise by
-Students’ Corner
-Exposition | Issue 18 Page 33
 26 percent by 2026. Therefore, it is worth putting effort into
 developing both technical and professional skills in you to fit into
 a job role in the data science domain. Keep reading to get to
@@ -78,7 +76,7 @@ sounds a better fit. Here are some significant power skills that
 are not common in discussions but are very important in today’s
 dynamic working environment.
 
-1. Confidently protecting your turf
+1. ### Confidently protecting your turf
 
    When it comes to your job role and job description as a data
    scientist, not everyone will define it the same way. The position
@@ -92,7 +90,7 @@ dynamic working environment.
    challenging as well as rewarding. Showcase your analytical skills
    and demonstrate the best version of the data scientist in you.
 
-2. Cognitive empathy
+2. ### Cognitive empathy
 
    As a data scientist, there are times that you have to put
    yourself in someone’s shoes to figure out the way they think.
@@ -105,7 +103,7 @@ dynamic working environment.
    supports interpretation and generation of insights and, finally, to
    build better models.
 
-3. Curiosity
+3. ### Curiosity
 
    A data scientist needs to be curious to find answers to known
    business problems and uncover overlooked solutions. The
@@ -116,7 +114,7 @@ dynamic working environment.
    data you possess. Keep in mind that there is always something
    to learn, regardless of the type of data you are working with.
 
-4. Persuasion
+4. ### Persuasion
 
    Do not expect persuasion to be easy. After you complete
    building your solution to the business problem, you should
@@ -129,7 +127,7 @@ dynamic working environment.
    and practically. Before presenting your solution, ask yourself, “if I
    were them, what would I be focusing on?”
 
-5. Commitment to hone your craft
+5. ### Commitment to hone your craft
 
    As a data scientist, you should know the new tools,
    technologies, and trends out there. Reading related books,
